@@ -1,6 +1,6 @@
 # Varun Library
 
-Quiet textbook-style self-study collection: subject notes, aptitude and math, reference books, previous papers, mock tests and revision notes.
+Quiet textbook-style self-study collection: subject notes, aptitude and math, reference books, previous papers, mock tests, revision notes and Unacademy course notes (Chapters 7–8).
 
 - Chapter 1 — Core Subject Notes (83)
 - Chapter 2 — General Aptitude & Engineering Mathematics (84)
@@ -8,8 +8,10 @@ Quiet textbook-style self-study collection: subject notes, aptitude and math, re
 - Chapter 4 — Previous Year Papers, 1996 onward (39)
 - Chapter 5 — Full-Length Mock Tests (5)
 - Chapter 6 — Quick Revision Short Notes (11)
+- Chapter 7 — Unacademy ECE Notes (115)
+- Chapter 8 — Unacademy GA, GS & Mathematics (26)
 
-Total: 437 resources · ~478 MB
+Total: 578 resources · ~775 MB
 
 ## Use
 
