@@ -18,12 +18,12 @@ Total: 578 resources · ~775 MB
 Clone (or download ZIP), then open `index.html` in a browser. Everything works offline — search, chapter filters, and the built-in reader.
 
 ```powershell
-git clone https://github.com/varunearns-max/varunlibrary.git
+git clone https://github.com/varunearns-max/library.git
 ```
 
-Then open `varunlibrary/index.html`.
+Then open `library/index.html`.
 
-Live site: https://varunlibrary.vercel.app
+Live site: https://library.vercel.app
 
 ## Study order
 
