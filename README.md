@@ -23,7 +23,7 @@ git clone https://github.com/varunearns-max/library.git
 
 Then open `library/index.html`.
 
-Live site: https://library.vercel.app
+Live site: https://varunlibrary.vercel.app
 
 ## Study order
 
